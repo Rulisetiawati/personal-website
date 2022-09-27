@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Research Analyst
     company: Kootenay Rockies Tourism Association
-    company_url: ''
+    company_url: 'https://www.krtourism.ca/'
     company_logo: ''
     location: Vancouver, BC (Remote)
     date_start: '2021-09-15'
@@ -40,7 +40,7 @@ experience:
 
   - title: Data Scientist
     company: Seasalt AI
-    company_url: ''
+    company_url: 'https://seasalt.ai/'
     company_logo: ''
     location: Vancouver, BC (Remote)
     date_start: '2021-10-05'
@@ -53,6 +53,22 @@ experience:
         * Reduced sales operations time by 70% by constructing a pipeline that automatically analyzed and
         visualized thousands of businesses in multiple cities
         * Built a data workflow and dashboard to monitor virtual agent conversation data for multiple businesses
+
+  - title: Data Science - NLP Intern
+    company: Seasalt AI
+    company_url: 'https://seasalt.ai/'
+    company_logo: ''
+    location: Vancouver, BC (Remote)
+    date_start: '2021-07-15'
+    date_end: '2022-05-1'
+    description: |2-
+        Responsibilities include:
+        
+        * Developed a multilingual Named Entity Recognition (NER) model that extracts 30+ fine-grained entities for 6 low-resource languages
+        * Integrated Natural Language Understanding (NLU) such as date-time grounding to improve virtual agent performance
+        * Planned and organized the development of human-annotated datasets for few-shot learning
+        * Achieved f1-score of 64.3% on 8 human-annotated datasets
+
 
 
 design:
