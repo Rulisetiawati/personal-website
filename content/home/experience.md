@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Research Analyst
+    company: Kootenay Rockies Tourism Association
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Vancouver, BC (Remote)
+    date_start: '2021-09-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Collaborate with full-stack developers, project managers, and stakeholders to integrate tourism data for the development of the BC Tourism Impact Portal (Datahub)
+        * Perform exploratory data analysis for tourism indicators
+        * Reduce time to preprocess data by 50% by streamlining the data cleaning process
+        * Create data visualization prototypes for multiple tourism indicators
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Data Scientist
+    company: Seasalt AI
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Vancouver, BC (Remote)
+    date_start: '2021-10-05'
+    date_end: '2022-06-15'
+    description: |2-
+        Responsibilities include:
+        
+        * Improved the machine reading model by 10% by training, validating, and testing the model with different datasets
+        * Increased natural language understanding training datasets by 60% by writing rules
+        * Reduced sales operations time by 70% by constructing a pipeline that automatically analyzed and
+        visualized thousands of businesses in multiple cities
+        * Built a data workflow and dashboard to monitor virtual agent conversation data for multiple businesses
+
 
 design:
   columns: '2'
