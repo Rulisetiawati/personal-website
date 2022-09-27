@@ -25,7 +25,7 @@ experience:
   - title: Data Research Analyst
     company: Kootenay Rockies Tourism Association
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: Vancouver, BC (Remote)
     date_start: '2021-09-15'
     date_end: ''
@@ -41,7 +41,7 @@ experience:
   - title: Data Scientist
     company: Seasalt AI
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Vancouver, BC (Remote)
     date_start: '2021-10-05'
     date_end: '2022-06-15'
