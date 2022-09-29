@@ -55,6 +55,21 @@ experience:
         * Increased natural language understanding training datasets by 60% by writing rules
 
 
+  - title: Data Science - NLP Intern
+    company: Seasalt AI
+    company_url: ''
+    company_logo: ''
+    location: Vancouver, BC (Remote)
+    date_start: '2021-07-15'
+    date_end: '2022-05-1'
+    description: |2-
+        Responsibilities include:
+        
+        * Developed a multilingual Named Entity Recognition (NER) model that extracts 30+ fine-grained entities for 6 low-resource languages
+        * Integrated Natural Language Understanding (NLU) such as date-time grounding to improve virtual agent performance
+        * Planned and organized the development of human-annotated datasets for few-shot learning
+        * Achieved f1-score of 64.3% on 8 human-annotated datasets
+
 
 design:
   columns: '2'
