@@ -43,7 +43,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Vancouver, BC (Remote)
-    date_start: '2021-10-05'
+    date_start: '2021-10-01'
     date_end: '2022-06-15'
     description: |2-
         Responsibilities include:
@@ -61,7 +61,7 @@ experience:
     company_logo: ''
     location: Vancouver, BC (Remote)
     date_start: '2021-07-15'
-    date_end: '2022-05-1'
+    date_end: '2022-05-01'
     description: |2-
         Responsibilities include:
         
